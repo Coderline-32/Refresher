@@ -1,0 +1,191 @@
+# Your 16-Week Full-Stack Development Roadmap
+
+Your goal is to become an AI-capable full-stack developer who can build, debug, test and deploy applications independently—and eventually use those skills to earn income.
+
+You are not starting from zero. You have previous exposure to Python, Django, Django REST Framework, FastAPI and PostgreSQL. We will rebuild weak foundations without repeating everything you already know.
+
+## The roadmap at a glance
+
+[Html, css and JavaScript | Upwork](https://images.openai.com/static-rsc-4/b_o2tjzYTK7s5T-fcVGiras8Y1Z6RZeSSezTXMPKyFwL-7SFk2f9FeADcRHjIe87e5Qd0SBoTescAmIe8frpFYi5t0rfd6s_my7gkRRjDzCUmEful5EMJIAdm2oXR32i3jUraEbYA-Ct8TSf1TVZRH21-rXYqPZbmBVUaQIIkwI?purpose=inline)
+
+01\. Web fundamentals
+
+Weeks 1–2 · HTML, CSS, JavaScript, Git
+
+Build interactive browser applications.
+
+[Routing in Django](https://images.openai.com/static-rsc-4/NBnZK6EOTU9tLNpAM72Gi1a0pfojoOAA56ABE03DNA6wZzOvE0LO3R1kdRp5mp8lHmSbvTqt-_g5Pr_Rh3Xi4GacaKdcTGTGgPETLnA8UJSavCgb331WLDpqrLtWChIRQ4bBnIQSCntXWBmV4Qe1zn_CplqChoOgrHLt2YZ6Ckc?purpose=inline)
+
+02\. Python and backend
+
+Weeks 3–5 · Python, HTTP, Django, REST
+
+Build APIs and understand request handling.
+
+[PgDesigner — Visual PostgreSQL Schema Designer](https://images.openai.com/static-rsc-4/c9OKg0so8hKIUAGAL65mJy775zuvOzEw6y8IkahhVeTx_VVhLi_h3NwEjzt0WSWAxbByRiViko-ioBTX-bDP5P7Qb_SeoR3rgYYqaNJAerjsQ7kMtJS5ethK8796eXXlWaqnZ6iTzGZYQEfRCKC1n9cOi8sTNz5pQfdVQyGYicY?purpose=inline)
+
+03\. Data and architecture
+
+Weeks 6–7 · SQL, PostgreSQL, data modeling
+
+Design reliable data structures and relationships.
+
+[Student Record Management Web App for Schools | Built with Blink](https://images.openai.com/static-rsc-4/Sg8VYbMlChbH-sk8QZqXNxr7HtHV8UXOo-5gk7Wt0LgD_MGiCQcCyrxEnMrtbaCamMiWGvU4CY_MrPM9MUC7zHPZjRZKa1qBqFggNMVVrEz3fPWQErzukwGeLywWle2Fi4rkTglNqlbjhXIii4qnZE6iyGiHDskRN0prOR0XE1s?purpose=inline)
+
+04\. Full-stack project
+
+Weeks 8–11 · Frontend, API, authentication
+
+Turn EduManage into a working application.
+
+[Github microsoft terminal - llkavu](https://images.openai.com/static-rsc-4/JcaCP3Y0ODMfLSIuJWad2vOh4IS42opc6_Y-GGaihGR2oa27DzBKMeEl-ThudY6RXuTAi5El9saE8GmeMKtbJK5rzq3PjW0agYv3r3JA9SQzyPbw3kmOiSRS1t7lozYuhnVFbiAgb_Wxb_fmqTo6zGMST0NFfWeqkw7FBAb9acU?purpose=inline)
+
+05\. Testing and security
+
+Weeks 12–13 · Automated tests, debugging
+
+Verify that your application works correctly.
+
+[60+ Bash Commands for Cloud Architects & Engineers (AWS, Azure, GCP & More) - DEV Community](https://images.openai.com/static-rsc-4/4SCFxEPUYGjuFCuq7yfcuJHgGYvReowU1i4oDUCg3qjI1QD5ry4W27jmdFSqMbdUK2hgpzW-zmmv0wIFJhADggtXLXxgbAMyvh-6b7rbpCq1tBdTpsm4-fmg49NzsKbMQzLrR7qOrYbLL3DYVC6iugZHkEK1Fd4ZO4c6Z5JgosM?purpose=inline)
+
+06\. Deployment and income
+
+Weeks 14–16 · Deployment, portfolio, outreach
+
+Publish your work and pursue real opportunities.
+
+Planning assumption: 10–15 hours per week. Adjust the pace to your actual ability; the weeks are targets, not guarantees.
+
+## Phase 1 — Web fundamentals
+
+Weeks 1–2
+
+Learn and practise:
+
+- HTML semantics, forms and validation.
+- CSS box model, Flexbox, Grid and responsive layouts.
+- JavaScript functions, arrays, objects, DOM events and asynchronous requests.
+- Git basics: commits, branches and GitHub.
+
+Build: A student management interface that lets you add, search, edit and delete records in the browser.
+
+Free resources: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development) · [freeCodeCamp](https://www.freecodecamp.org/learn/)
+
+Move on when you can build a basic interactive page without copying a tutorial line by line.
+
+## Phase 2 — Python and backend development
+
+Weeks 3–5
+
+Week 3: Refresh Python functions, collections, classes, modules, exceptions and debugging.
+
+Week 4: Learn HTTP requests and responses, JSON, REST conventions, status codes and API design.
+
+Week 5: Consolidate Django and Django REST Framework—models, migrations, serializers, views, routing, validation and permissions.
+
+Build: A student API that supports creating, reading, updating and deleting records.
+
+Resources: [Python tutorial](https://docs.python.org/3/tutorial/) · [Django tutorial](https://docs.djangoproject.com/en/stable/intro/) · [DRF quickstart](https://www.django-rest-framework.org/tutorial/quickstart/)
+
+## Phase 3 — Databases and data modeling
+
+Weeks 6–7
+
+Focus on PostgreSQL:
+
+- Tables, primary and foreign keys.
+- One-to-many and many-to-many relationships.
+- SQL queries, JOINs and constraints.
+- Transactions, indexes and basic normalization.
+- Database migrations and query debugging.
+
+Build: A database for students, classes and attendance.
+
+Learn to sketch the relationships before writing the models. Skip MongoDB for now; you don't need a second database to become productive.
+
+Resource: [PostgreSQL tutorial](https://www.postgresql.org/docs/current/tutorial.html)
+
+## Phase 4 — Full-stack development
+
+Weeks 8–11
+
+Use your EduManage project as your main learning environment.
+
+1. Connect the JavaScript frontend to the Django API.
+2. Persist student records in PostgreSQL.
+3. Add authentication and role-based permissions.
+4. Add classes and attendance.
+5. Handle invalid input, failed requests and access restrictions.
+
+Your target is one complete workflow that works from browser to database and back. Don't rush to build every module.
+
+## Phase 5 — Testing, debugging and security
+
+Weeks 12–13
+
+Learn:
+
+- Django unit and API tests.
+- Testing valid and invalid inputs.
+- Authentication and authorization checks.
+- Debugging tracebacks and browser network requests.
+- Environment variables and secret management.
+- Basic protection against common web vulnerabilities.
+
+Build: An automated test suite that catches broken student registration, unauthorized access and invalid data.
+
+Resource: [Django testing documentation](https://docs.djangoproject.com/en/stable/topics/testing/)
+
+## Phase 6 — Deployment and income
+
+Weeks 14–16
+
+Learn:
+
+- Git branches and pull requests.
+- Environment configuration and production settings.
+- Deploying a Django application with a managed or hosted PostgreSQL database.
+- Logs, errors, backups and basic maintenance.
+- Writing a clear README with screenshots and setup instructions.
+
+Deploy EduManage and then pursue practical opportunities: small business workflows, backend tasks, internships, junior developer positions or carefully scoped freelance projects.
+
+Your project is evidence of ability, not a guarantee of income. Pair it with outreach and applications.
+
+## How to use AI throughout the roadmap
+
+Use this cycle for every feature:
+
+1. Plan: Write down the requirements and expected behaviour.
+2. Attempt: Design the solution and implement what you can.
+3. Ask: Use AI to explain concepts, diagnose errors or review a small change.
+4. Test: Check normal cases, edge cases, permissions and failures.
+5. Explain: Make sure you can explain the implementation yourself.
+
+Don't ban AI completely, and don't let it build entire systems you cannot understand.
+
+## Your completion checklist
+
+### Readiness tracker
+
+0 of 8
+
+Build interactive frontend features independently
+
+Create and debug a Django REST API
+
+Design PostgreSQL tables and relationships
+
+Connect frontend, API and database
+
+Implement authentication and permissions
+
+Write automated tests
+
+Deploy the application
+
+Publish a portfolio project and contact potential employers or clients
+
+Your rule: Follow one roadmap for the next 16 weeks. Do not switch to cybersecurity, data science, another backend framework or AI engineering halfway through. Those may be future options; right now, build a solid foundation and finish what you start.
+
+Start with Week 1: assess your HTML and CSS skills by building the student registration page. If you can do it comfortably, move straight to JavaScript rather than repeating material you already know.
